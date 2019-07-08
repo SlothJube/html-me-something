@@ -1,0 +1,42 @@
+h1{
+    color: azure;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 50px
+}
+
+h2{
+    background-color: aqua;
+    font-size: 50px;
+}
+
+p.website{
+    font-family: Arial;
+    color: rgb(241, 7, 7);
+    font-size: 30px;
+}
+
+p{
+    font-size: 30px;
+    font-family: sans-serif;
+    color: #000000;
+}
+
+body{
+    background: linear-gradient(#0000ff, #FFA500);
+}
+
+
+div {
+    padding: 70px;
+    border: 10px solid #000000;
+    margin-left: 50px;
+    margin-right: 50px;
+  }
+
+#firstname{
+    background-image: url(180627115844-07-st-louis-gateway-arch.jpg);
+    padding: 100px;
+    margin-left: auto;
+    margin-right: auto;
+}
